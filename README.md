@@ -3,4 +3,4 @@ Python code samples
 
 7-6-16
 Python powerball generator program
-Could not get the duplicate random number feature finished. Commented out the code.
+Only part not working is duplicate random number feature. Commented out the code. (2 or more sets of equal duplicates)
